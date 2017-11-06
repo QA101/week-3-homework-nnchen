@@ -1,3 +1,7 @@
+//I was having trouble figuring out this game, so I found this code in stack overflow.
+//I retyped it in, but I feel like I'm getting the hang of understanding what the code is saying.
+
+
 import java.util.Random;
 import java.util.Scanner;
 
